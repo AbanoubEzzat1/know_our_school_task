@@ -1,16 +1,5 @@
-# know_our_school
+# know_our_school 
 
-Test applicant ability to use MVVM Design Pattern and provider for state management
+<img src="https://github.com/AbanoubEzzat1/know_our_school_task/blob/master/Untitled.png">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Flutter app developed for a task
